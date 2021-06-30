@@ -18,10 +18,8 @@ footer{
 }
 .footer-container section{
     display: flex;
-    flex-shrink: 1;
 }
 .footer-container ul{
-    width: 190px;
     max-width: 190px;
     margin-left: 10px;
     padding-top: 10px;
